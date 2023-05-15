@@ -1,6 +1,6 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a beginner who is passionate about exploring new things in full-stack development. ~~Currently, she is a newcomer to the workforce and is located in Shanghai.~~ Now, she is a freelancer.
+Innei is a beginner who is passionate about exploring new things in full-stack development. ~~Currently, she is a newcomer to the workforce and is located in Shanghai.~~ <!-- Now, she is a freelancer. -->
 
 In the developer field, she often actively participates in GitHub and aspires to become a freelancer.
 
@@ -99,7 +99,7 @@ She has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/13/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/2/2023</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>2/13/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -111,7 +111,7 @@ She has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/yeahwu/check>yeahwu/check</a><span> Streaming Media Unlock Test</span></li><li><a href=https://github.com/ben-rogerson/twin.macro>ben-rogerson/twin.macro</a><span> 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.</span></li><li><a href=https://github.com/ueberdosis/tiptap>ueberdosis/tiptap</a><span> The headless editor framework for web artisans.</span></li><li><a href=https://github.com/lxgw/LxgwWenKai>lxgw/LxgwWenKai</a><span> An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</span></li><li><a href=https://github.com/yetone/bob-plugin-openai-translator>yetone/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！</span></li></ul>
+<ul><li><a href=https://github.com/histoire-dev/histoire>histoire-dev/histoire</a><span> ⚡ Fast and beautiful interactive component playgrounds, powered by Vite</span></li><li><a href=https://github.com/arielbk/shiny-3d-card>arielbk/shiny-3d-card</a><span> Animation effect built with React + TypeScript and Framer Motion.</span></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><span> Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</span></li><li><a href=https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator>chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator</a><span> This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.</span></li><li><a href=https://github.com/ShenQingchuan/HeteroDoc>ShenQingchuan/HeteroDoc</a><span> Heterocube Cloud Collaborative Docs. Built with Vue3 + TypeScript + ProseMirror + Y.js + DeepKit</span></li></ul>
 
 **Can you find me?**
 
@@ -120,4 +120,4 @@ She has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/15/23, 8:31 AM<br>下一次刷新：5/16/23, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/15/23, 2:36 PM<br>下一次刷新：5/16/23, 2:36 PM</p>
