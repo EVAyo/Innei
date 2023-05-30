@@ -1,8 +1,10 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a beginner who is passionate about exploring new things in full-stack development. ~~Currently, she is a newcomer to the workforce and is located in Shanghai.~~ <!-- Now, she is a freelancer. -->
+Innei is a beginner who is passionate about exploring new things in full-stack development. <!-- ~~Currently, she is a newcomer to the workforce and is located in Shanghai.~~ Now, she is a freelancer. -->
 
 In the developer field, she often actively participates in GitHub and aspires to become a freelancer.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=innei&theme=transparent" />
 
 **💖 Sponsor 赞助**
 
@@ -99,7 +101,7 @@ She has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/22/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/26/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/22/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -111,7 +113,7 @@ She has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/civitai/civitai>civitai/civitai</a><span> A repository of models, textual inversions, and more</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a><span> A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/lxgw/LxgwWenKai>lxgw/LxgwWenKai</a><span> An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</span></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><span> A ESLint config preset.</span></li><li><a href=https://github.com/mkosir/react-parallax-tilt>mkosir/react-parallax-tilt</a><span> 👀 Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)</span></li></ul>
+<ul><li><a href=https://github.com/mkosir/react-parallax-tilt>mkosir/react-parallax-tilt</a><span> 👀 Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)</span></li><li><a href=https://github.com/openai-translator/bob-plugin-openai-translator>openai-translator/bob-plugin-openai-translator</a><span> 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0</span></li><li><a href=https://github.com/f/awesome-chatgpt-prompts>f/awesome-chatgpt-prompts</a><span> This repo includes ChatGPT prompt curation to use ChatGPT better.</span></li><li><a href=https://github.com/react-icons/react-icons>react-icons/react-icons</a><span> svg react icons of popular icon packs</span></li><li><a href=https://github.com/arielbk/shiny-3d-card>arielbk/shiny-3d-card</a><span> Animation effect built with React + TypeScript and Framer Motion.</span></li></ul>
 
 **Can you find me?**
 
@@ -120,4 +122,4 @@ She has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/30/23, 8:33 AM<br>下一次刷新：5/31/23, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/30/23, 10:53 AM<br>下一次刷新：5/31/23, 10:53 AM</p>
